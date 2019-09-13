@@ -2,6 +2,8 @@
 
 The MPLS Dog Boarding Company in North Minneapolis is a dog day care center that is looking for a web developer that will construct code that allows an end-user (MPLS Dog Boarding customers) to enter data into a webpage and determine the cost of their boarding fee. 
 
+
+
 ## Requirements
 
 Construct a program using flowgorithm and pseudocode that will continuously accepts dogs’ data until a sentinel value is entered, and displays billing data for each dog.  
@@ -28,3 +30,6 @@ Submit the flowgorithm file and the pseudocode file to Canvas - **Do not zip/com
 * Program takes in consideration fee greater than $125 and outputs statement
 * Program properly introduces and concludes program
 * Project properly versioned controlled
+
+
+Invitaton URL: https://classroom.github.com/a/JNpGTYwI
